@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A wonderfull deliverance or Gods abundant mercy in preserving from the cavaliers the towne of Draiton in the county of Hereford. Declaring how many troopes of the cavaliers came against the said towne, with an intent to have plundered it and put the inhabitants to the sword, men, women, and children. Also manifesting how they were happily discovered by a scout of our draggooners, who gave an allarum to severall troopes of horse and foot, which where quartered in the adioyning villages, by whose assistance the towne was preserved, and a wonderfull victory obtained over the cavaliers. Being the true coppie of a letter sent from Mr. Tho. Kittermaster of Hereford, to Mr. William Knowles in Holborne, dated Octob. 14. 1642.</title>
+            <author>Kittermaster, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87799</idno>
+            <idno type="STC">Wing K661</idno>
+            <idno type="STC">Thomason E123_16</idno>
+            <idno type="STC">ESTC R15626</idno>
+            <idno type="EEBO-CITATION">99859898</idno>
+            <idno type="PROQUEST">99859898</idno>
+            <idno type="VID">112000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112000)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E123[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A wonderfull deliverance or Gods abundant mercy in preserving from the cavaliers the towne of Draiton in the county of Hereford. Declaring how many troopes of the cavaliers came against the said towne, with an intent to have plundered it and put the inhabitants to the sword, men, women, and children. Also manifesting how they were happily discovered by a scout of our draggooners, who gave an allarum to severall troopes of horse and foot, which where quartered in the adioyning villages, by whose assistance the towne was preserved, and a wonderfull victory obtained over the cavaliers. Being the true coppie of a letter sent from Mr. Tho. Kittermaster of Hereford, to Mr. William Knowles in Holborne, dated Octob. 14. 1642.</title>
+                  <author>Kittermaster, Thomas.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. F. for I. H.</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 20. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Signed at end: T. Kittermaster. Hereford, this 14. of October, 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Hereford (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112000:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <p>A Wonderfull DELIVERANCE OR Gods abundant mercy in preſerving from the Cavaliers the towne of DRAITON Jn the County of <hi>HEREFORD.</hi>
+            </p>
+            <p>Declaring how many Troopes of the Ca<g ref="char:EOLhyphen"/>valiers came againſt the ſaid Towne, with an inten<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to have plundered it and put the in<g ref="char:EOLhyphen"/>habitants to the Sword, Men, Women, and Children.</p>
+            <p>Alſo manifeſting how they were happily diſcove<g ref="char:EOLhyphen"/>red by a ſcout of our Draggooners, who gave an alla<g ref="char:EOLhyphen"/>rum to ſeverall Troopes of Horſe and Foot, which where Quartered in the adioyning Villages, by whoſe aſſiſtance the towne was preſerved, and a won<g ref="char:EOLhyphen"/>derfull victory obtained over the Cavaliers.</p>
+            <p>Being the true Coppie of a Letter ſent from Mr. <hi>Tho. Kittermaſter</hi> of <hi>Hereford,</hi> to Mr. <hi>William Knowles</hi> in <hi>Holborne,</hi> dated <hi>Octob.</hi> 14. 1642.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T.F.</hi> for <hi>I.H. October</hi> 20. 1641</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112000:2"/>
+            <!-- PDF PAGE 59 -->
+            <pb facs="tcp:112000:2"/>
+            <!-- PDF PAGE 59 -->
+            <head>A true Relation of the Proceedings of both ARMIES.</head>
+            <head type="sub">Declaring the hopefull ſucceſſe of the Parliaments Forces againſt the Cavaliers, and how Prince <hi>Roberts</hi> Horſe was kild under him.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">W</seg>Orthy Sir,</salute>
+            </opener>
+            <p>my beſt wiſhes ſalute you, your Letter happily came to my hands on Friday at night where you deſire a faire corre<g ref="char:EOLhyphen"/>ſpondency, notwithſtanding the diſtance of place, as hath formerly paſſed be<g ref="char:EOLhyphen"/>twixt us, imparting ſuch newes and paſſages to each other, as our knowledge and the places where either of us abide, may furniſh us with, I aſsure you Sir, that the performance of your part of Frienſhip requires the like in me, for Newes, J ſhould be loth to be num<g ref="char:EOLhyphen"/>bered amongſt thoſe that write onely upon
+<pb facs="tcp:112000:3"/>
+               <!-- PDF PAGE 60 -->bare imagination, to ſweeten their owne de<g ref="char:EOLhyphen"/>ſires, though they often appeare improbable, but J preſume upon my owne knowledge, and my Eyes are the juſt and faithfull witneſses of what J write, and J ſhall doe nothing with<g ref="char:EOLhyphen"/>out their directions, therefore J ſhall write to you nothing but what J know for truth, our Country howſoever they ſeeme ſtrongly for the other Party, yet in their hearts they are for the King and Parliament, however they have been abuſed in idle Pamphlets.</p>
+            <p>We have credible information, the King intended to advance towards you, but hath waved his reſolution towards <hi>London,</hi> and di<g ref="char:EOLhyphen"/>vided his Army into two bodies.</p>
+            <p>One of which Diviſions His Majeſty him<g ref="char:EOLhyphen"/>ſelfe leads, the other Part Prince <hi>Robert</hi> com<g ref="char:EOLhyphen"/>mandeth, who with a flying Army poſts be<g ref="char:EOLhyphen"/>fore him, and as J have heard a true relation plunders many Villages by the way, but our Commanders with undanted reſolutions, their Troopes being fild with courage, are reſolved to follow them, and bravely to venture th<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es in the maintenance, of the true Proteſt<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb facs="tcp:112000:3"/>
+               <!-- PDF PAGE 60 -->Religion, the defence of the King, the Rights and Privilidges of Parliament, againſt all ma<g ref="char:EOLhyphen"/>lignant Parties, both Papiſts and Cavaliers.</p>
+            <p>All which Commanders with an unani<g ref="char:EOLhyphen"/>mous conſent doe moſt Chriſtianlike declare their firme reſolves in the behalfe of their King and Country.</p>
+            <p>And could they meet the Papiſts and bloud-thirſty Cavaliers in one diſtinguiſhable Body, they would then publiſh their true zeale to Proteſtant Religion, their Loyalty to his Ma<g ref="char:EOLhyphen"/>jeſty, and their faithfull ſervice to the Hono<g ref="char:EOLhyphen"/>rable Houſes of Parliament.</p>
+            <p>But howſoever they are reſolved by Gods aſsiſtance to follow both Armies, and to de<g ref="char:EOLhyphen"/>fend all thoſe that ſhall make reſiſtance or en<g ref="char:EOLhyphen"/>deavour to withſtand the Cavaliers.</p>
+            <p>This may appeare by this enſuing relation.</p>
+            <p>Prince <hi>Robert</hi> with his Troopes did intend to plunder <hi>Drayton,</hi> but our Commanders ha<g ref="char:EOLhyphen"/>ving intelligence of his purpoſe, ſent Forces to intercept him, which was as followeth.</p>
+            <p>They having intelligence by a ſcout of Draggoners, ſix Troopes of Horſe, and a thouſand Foot were ſent to intercept them.</p>
+            <p>
+               <pb facs="tcp:112000:4"/>
+               <!-- PDF PAGE 61 -->
+Twixt whom held a dangerous skirmiſh, for the ſpace of an houre, yet being at that onſet over-preſt with odds upon Prince <hi>Ro<g ref="char:EOLhyphen"/>berts</hi> party, which had not their courage been anſwerable to their Cauſe and minds, in rights beheſt of King and Parliament, they alone had not been loſt but the Towne alſo, who like<g ref="char:EOLhyphen"/>wiſe lent their aid and aſsiſtance, otherwiſe they had been plundered and utterly rui<g ref="char:EOLhyphen"/>ned.</p>
+            <p>But God, who ſtill guards the fighters of his battailes, did likewiſe to their Courage adde their victory.</p>
+            <p>For they with undanted reſolution, (to whoſe aide was brought two Troopes more of Horſe, with two hundred Dragooneers) aſ<g ref="char:EOLhyphen"/>ſailed them on the right wing of Prince <hi>Ro<g ref="char:EOLhyphen"/>berts</hi> Army, which new refreſhing, they ſup<g ref="char:EOLhyphen"/>poſing more ſupplies were ready for to backe them) began by degrees to retreat, which our party perceiving, with fiery reſolution redoub<g ref="char:EOLhyphen"/>led heir former courage, and with joyfull ac<g ref="char:EOLhyphen"/>clamations, ſymptomes of a hopefull victory, which did ſo diſmay the adverſe party with feare, that we got ground of them, and for<g ref="char:EOLhyphen"/>ced them to a preſent flight.</p>
+            <p>
+               <pb facs="tcp:112000:4"/>
+               <!-- PDF PAGE 61 -->
+In which flight a worthy Gentleman, not to be forgotten for his brave courage and ap<g ref="char:EOLhyphen"/>proved valour Mr. <hi>John Ramſey</hi> Coronet, be<g ref="char:EOLhyphen"/>haved himſelfe ſo bravely, that hee deſerves to have our loves and future memory; for he not onely diſmounted Prince <hi>Roberts</hi> Co<g ref="char:EOLhyphen"/>ronet, but farther brake into their rankes, ſlew a Lieutenant, and ſo bravely behaved himſelfe which gain'd him many followers as envious of his Fame to gaine themſelves like honour, in which flight Princes RO<g ref="char:EOLhyphen"/>BERTS Horſe was ſhot under him, and hee was forced to take a Troopers horſe to ſave him from their purſuit, and had not this a<g ref="char:EOLhyphen"/>foreſaid worthy Gentleman Mr. <hi>John Ram<g ref="char:EOLhyphen"/>ſey</hi> Coronet, received a dangerous wound in the Thigh, hee queſtionleſſe had tane Prince <hi>Robert</hi> or fallen in the attempt, yet howſoever this to his fame be it ſpoke, hee brought the trophy of the other Coronet which hee diſmounted to his Colonell, who ſo with love received him for his Service, and gave him a Lieutenants place. And had not the Evening prevented the purſuit of Prince ROBERTS army, they had given them a greater overthrow.</p>
+            <p>
+               <pb facs="tcp:112000:5"/>
+               <!-- PDF PAGE 62 -->
+The number of the ſlaine on the other ſide as yet J cannot ſend you, but in my next Let<g ref="char:EOLhyphen"/>ter J ſhall, belieue no flying tales that the Ar<g ref="char:EOLhyphen"/>my mutinies, they are but falſe rumours ray<g ref="char:EOLhyphen"/>ſed by ſome malignant ſpirits, for believe it their reſolves are firmely knit, in the defence of the King and Parliament to live and die.</p>
+            <p>So much newes and no more at this time can J affoord you, J beſeech God to ſend us peace and a ſpeedy happy union betwixt the King and Parliament, ſo J reſt, hoping to heare from you.</p>
+            <closer>
+               <signed>Yours to be commanded <hi>T. Kittermaſter.</hi>
+               </signed>
+               <dateline>Hereford, <date>this 14. of <hi>October,</hi> 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
